@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @audi3ee7
-- 👀 I’m interested in graphic design, ui design, and video games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m audrey
+- 👀 I’m interested in HTML, CSS, and JavaScript
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to expand my portfolio
 - 📫 How to reach me ...
 
 <!---
